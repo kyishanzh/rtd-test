@@ -1,5 +1,6 @@
 """
-Lumache - Python library for cooks and food lovers.
+# Lumache - Python library for cooks and food lovers.
+SHISO -  Spatial Hierarchical ISOform analysis
 """
 
 __version__ = "0.1.0"
